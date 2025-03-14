@@ -62,7 +62,7 @@ Una vez definidas las subredes, se configuraron los **routers** asignando direcc
 
    ```
 
-![alt text](<Screenshot 2025-03-13 192349.png>)
+![alt text](image-1.png)
 
 
    **Router 2 (R2):**  
